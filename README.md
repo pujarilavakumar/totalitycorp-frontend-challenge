@@ -1,8 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using [clean-cra Template](https://github.com/JorgePasco1/cra-template-clean-cra).
 
-## Available Scripts
+## E-Commerce Website
 
-In the project directory, you can run:
+A Ecommerce Website made with React.js Framework.
+
+## Demo
+https://ecommerce-app-66822.web.app/
+
+## Features
+Easy to integrate with Backend
+Fully Responsive
 
 ### `npm start`
 
